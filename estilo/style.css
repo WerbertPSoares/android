@@ -78,9 +78,8 @@ header {
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor2));
     min-height: 150px;
     text-align: center;
-    padding: 10px;
-    color: #FD4C3A;
-    background-color: #FD4C3A;
+    padding-top: 40px;
+    
 }
 header > h1 {
     font-weight: normal;
