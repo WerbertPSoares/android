@@ -27,8 +27,6 @@
     margin: 0px;
     padding: 0px;
 }
-body {
-    background-color: var(--cor0);
    
 }
 main h1 {
@@ -83,12 +81,11 @@ header {
 }
 header > h1 {
     font-weight: normal;
-   
    color: white;
     font-family: var(--fonte-padrão);
     font-size: 3em;
     text-align: center;
-    margin: 20px;
+    margin: auto;
     text-shadow: 2px 2px 0px black;
 
 }
